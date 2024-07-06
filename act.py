@@ -18,4 +18,4 @@ Major: {major}
 """
 
 print(menssage)
-
+print("Changes added")
