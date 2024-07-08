@@ -7,7 +7,7 @@ date = datetime.now().strftime("%Y-%m-%d")
 
 menssage = f"""
 ###################
-# Project phase 1 #
+# Project phase2 #
 ###################
 
 Date: {date}
@@ -18,4 +18,4 @@ Major: {major}
 """
 
 print(menssage)
-print("Changes added")
+print("Phase 1 changed to phase2")
