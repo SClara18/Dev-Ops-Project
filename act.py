@@ -7,7 +7,7 @@ date = datetime.now().strftime("%Y-%m-%d")
 
 menssage = f"""
 ###################
-# Project phase2 #
+# Project phase1 #
 ###################
 
 Date: {date}
