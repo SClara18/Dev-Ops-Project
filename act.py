@@ -7,7 +7,7 @@ date = datetime.now().strftime("%Y-%m-%d")
 
 menssage = f"""
 ###################
-# Project phase1 #
+# Project phase3 #
 ###################
 
 Date: {date}
@@ -18,4 +18,5 @@ Major: {major}
 """
 
 print(menssage)
-print("Phase 1 changed to phase2")
+print("Phase 1 changed to phase3")
+print("New commit added")
